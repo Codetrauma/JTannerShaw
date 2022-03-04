@@ -1,5 +1,5 @@
 <h1 align='center' style='font-weight: bold'> Welcome! </h1>
-<p align='center'> Hey! My name's Tanner. Formerly, a competitive esports player and coach, and now a software engineer!
+<p align='center'> Hey! My name's Tanner. Formerly a competitive esports player and coach, and now a software engineer!
 
 <div align='center'>
 <a style='padding-right: 450px' href='https://www.linkedin.com/in/jtannershaw/'>LinkedIn </a> <a href='https://drive.google.com/file/d/10cBcr3mNfsVDbIKVpK1cNv8muoo27aco/view?usp=sharing'>Resume</a>
