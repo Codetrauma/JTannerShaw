@@ -2,7 +2,7 @@
 <p align='center'> Hey! My name's Tanner. Formerly a competitive esports player and coach, and now a software engineer!
 
 <div align='center'>
-<a style='padding-right: 450px' href='https://www.linkedin.com/in/jtannershaw/'>LinkedIn </a> <a href='https://drive.google.com/file/d/10cBcr3mNfsVDbIKVpK1cNv8muoo27aco/view?usp=sharing'>Resume</a>
+<a style='padding-right: 450px' href='https://www.linkedin.com/in/jtannershaw/'>LinkedIn </a> <a href='[https://drive.google.com/file/d/10cBcr3mNfsVDbIKVpK1cNv8muoo27aco/view?usp=sharing](https://drive.google.com/file/d/1VpG9t7fJ4o1hNRoUkh6Uk2Fu8l31z9o9/view?usp=sharing)'>Resume</a>
 </div>
 <div>
 <h1 align='center' style='font-weight: bold'>My Skills </h1>
