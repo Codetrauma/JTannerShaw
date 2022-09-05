@@ -15,7 +15,7 @@
 <div align='center'>
 <h3 align='center' style='font-weight: bold'>Frameworks</h3>
 <br />
-<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
 <br />
 <div align='center'>
