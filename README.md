@@ -9,7 +9,7 @@
 <h3 align='center' style='font-weight: bold'>Languages</h3>
 <div align='center'>
 <img height='50' align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height='50' align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height='55' align='center'src='https://i.imgur.com/l8YvoDn.png'>
+<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 <br />
 <div align='center'>
