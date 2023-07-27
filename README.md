@@ -20,12 +20,13 @@
 <br />
 <div align='center'>
 <h3 align='center' style='font-weight: bold'>ORMs</h3>
-<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" /><img height='50' align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" /><img height='50' align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /> <img height='50' align='center' src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" />
 </div>
 <br />
 <div align='center'>
 <h3 align='center' style='font-weight: bold'>Databases</h3>
 <img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> <img height='50' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
 </div>
 <br />
 <br />
